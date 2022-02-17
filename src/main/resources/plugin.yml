@@ -1,0 +1,4 @@
+name: ItemPouches
+version: 1.0
+main: dev.jresch.itempouches.Plugin
+api-version: 1.18
